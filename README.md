@@ -1,3 +1,3 @@
 # code-pyspark
-Auther - Bijaya Prasad Gouda /n
-LinkedIn - https://www.linkedin.com/in/gbijayprasad/
+<br> Auther - Bijaya Prasad Gouda </br>
+<br> LinkedIn - https://www.linkedin.com/in/gbijayprasad/ </br>
