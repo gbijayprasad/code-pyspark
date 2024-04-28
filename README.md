@@ -1,4 +1,4 @@
 # code-pyspark
-<br><p> This repo is to understand some pyspark concepts and It will help for the biginners. We will try to create end-to-end Data Engineering project using PySpark. </p></br>
+<br><p> This repository serves as a comprehensive resource for individuals seeking to grasp fundamental concepts of PySpark, particularly beneficial for beginners. Through this repository, we aim to facilitate learning by developing an end-to-end Data Engineering project utilizing PySpark. </p></br>
 <br> Auther - Bijaya Prasad Gouda </br>
 <br> LinkedIn - https://www.linkedin.com/in/gbijayprasad/ </br>
